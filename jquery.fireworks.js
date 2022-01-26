@@ -1,7 +1,7 @@
 
 
 (function( $ ) {
-    var MAX_ROCKETS = 50,
+    var MAX_ROCKETS = 20,
         MAX_PARTICLES = 500;
 
     var FUNCTIONS = {

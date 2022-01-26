@@ -25,7 +25,7 @@ body {
   display: none; }
 
 .firework {
-  /*-- Responsive-Code --*/ }
+   }
   .firework .wrapper {
     box-sizing: border-box;
     width: 640px;
@@ -163,4 +163,3 @@ body {
     .firework .text {
       font-size: 13px; } }
 
-/*-- //Responsive-Code --*/
